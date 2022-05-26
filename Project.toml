@@ -1,0 +1,13 @@
+name = "SPH_jl"
+uuid = "08bf1629-8007-4f49-b7a8-33431b692b46"
+authors = ["Ahmed Salih <asalih3d@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
